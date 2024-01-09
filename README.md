@@ -12,4 +12,4 @@ Click [here](https://github.com/SavageCore/steam-profile-background-finder/relea
 
 ## License
 
-UNLICENSE © [SavageCore](https://savagecore.eu)
+UNLICENSE © [SavageCore](https://savagecore.uk)
